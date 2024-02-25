@@ -1,2 +1,2 @@
 # Data-Mining
-Praktikum Data Mining
+Prediksi Cuaca di Sulawesi Tenggara
